@@ -17,3 +17,5 @@ python --version
 # checkUp
 pip show robotframework 
 ````
+
+3. chromedriver
