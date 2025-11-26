@@ -11,7 +11,13 @@ pip --version
 python --version
 ````
 
-2. robotframework
+2. git
+````ps1
+# checkUp
+git --version
+````
+
+4. robotframework
 
 ````ps1
 # checkUp
