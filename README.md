@@ -10,4 +10,10 @@ pip --version
 
 python --version
 ````
-2. 
+
+2. robotframework
+
+````ps1
+# checkUp
+pip show robotframework 
+````
