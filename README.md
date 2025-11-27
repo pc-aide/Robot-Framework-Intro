@@ -39,4 +39,5 @@ pip install robotframework-pabot
 pip install robotframework-seleniumlibrary
 ````
 
-5. chromiumDriver
+5. edgeDriver
+
