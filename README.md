@@ -39,5 +39,6 @@ pip install robotframework-pabot
 pip install robotframework-seleniumlibrary
 ````
 
-5. edgeDriver
-
+5. edge webDriver
+[home](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver?form=MA13LH)
+[ddl-142](https://msedgedriver.microsoft.com/142.0.3595.94/edgedriver_win64.zip)
