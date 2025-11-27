@@ -17,11 +17,24 @@ python --version
 git --version
 ````
 
-4. robotframework
+3. robotframework
 
 ````ps1
+# --proxy http://<hostname:port> : optional
+pip install robotframework
+
 # checkUp
 pip show robotframework 
 ````
 
-3. chromedriver
+4. lib
+````ps1
+# appium for mobile
+pip install robotframework-appiumlibrary
+
+# pabot
+pip install robotframework-pabot
+
+# selenium for web
+pip install robotframework-seleniumlibrary
+````
