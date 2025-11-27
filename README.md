@@ -50,3 +50,10 @@ $env:path += ";c:\users\paul\edgedriver"
 get-command msedgedriver |
 fl commandType,name,version,source
 ````
+
+---
+
+## Test
+````ps1
+robot fichier.robo
+````
