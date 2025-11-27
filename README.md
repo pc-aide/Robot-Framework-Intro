@@ -27,7 +27,7 @@ pip install robotframework
 pip show robotframework 
 ````
 
-4. lib
+4. libs
 ````ps1
 # appium for mobile
 pip install robotframework-appiumlibrary
