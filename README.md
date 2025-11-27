@@ -17,7 +17,7 @@ python --version
 git --version
 ````
 
-3. robotframework
+3. robot framework
 
 ````ps1
 # --proxy http://<hostname:port> : optional
@@ -38,3 +38,5 @@ pip install robotframework-pabot
 # selenium for web
 pip install robotframework-seleniumlibrary
 ````
+
+5. chromiumDriver
