@@ -40,5 +40,13 @@ pip install robotframework-seleniumlibrary
 ````
 
 5. edge webDriver
-[home](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver?form=MA13LH)
-[ddl-142](https://msedgedriver.microsoft.com/142.0.3595.94/edgedriver_win64.zip)
+* [home](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver?form=MA13LH)
+* [ddl-142](https://msedgedriver.microsoft.com/142.0.3595.94/edgedriver_win64.zip)
+* update path :
+````ps1
+$env:path += ";c:\users\paul\edgedriver"
+
+# checkUp
+get-command msedgedriver |
+fl commandType,name,version,source
+````
