@@ -55,5 +55,5 @@ fl commandType,name,version,source
 
 ## Test
 ````ps1
-robot fichier.robo
+robot login.robot
 ````
